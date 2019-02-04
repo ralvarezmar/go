@@ -1,4 +1,4 @@
-Mi práctica está implementada con relojes vectoriales. El reloj vectorial está formado por un vector con el id del agente y un contador.
+Esta está implementada con relojes vectoriales. El reloj vectorial está formado por un vector con el id del agente y un contador.
 Cuando el agente crea el archivo inicializa el reloj con 1:1 (en el caso de que su identificador sea 1) y añade la marca de CREATE. 
 Si este agente añade otra marca simplemente se incrementa el contador y si es otro agente se añade su id al reloj con contador 1. 
 
